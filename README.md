@@ -1,2 +1,0 @@
-# sample-calculator-project1
-
